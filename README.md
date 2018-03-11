@@ -8,12 +8,13 @@ Lesson 1 - GPU Programming Model
 
 Lesson 2 - GPU Hardware and Parallel Communication
 
-Lesson 3 - Fundamental Parallel Algorithms
+Lesson 3 - Fundamental GPU Algorithms (Reduce, Scan and Histogram)
 
-Lesson 4 - Using Sort and Scan
+Lesson 4 - Fundamental GPU Algorithms (Applications of Reduce and Scan)
 
 Lesson 5 - Optimizing GPU Programs
 
 Lesson 6 - Parallel Computing Patterns
 
 Lesson 7 - The Future of GPU Computing
+
