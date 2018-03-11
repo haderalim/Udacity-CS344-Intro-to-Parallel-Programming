@@ -62,7 +62,7 @@ int main(void)
 	
 	//----Launch the kernel----
 	//syntax of program on GPU, parameters between <<< >>>
-	
+	// 1: number of blocks and 64: number of threads per block
 	square<<<1, ARRAY_SIZE>>> (d_out, d_in);
 	
 	
